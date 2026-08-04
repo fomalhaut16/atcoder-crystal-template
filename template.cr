@@ -1,3 +1,4 @@
+# version:20260804
 require "json"
 
 DEBUG = true
